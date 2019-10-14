@@ -10,7 +10,7 @@ def
   a.sort {|x,y| (x <=> y)}
 end
   
-  def  sort_array_char_count 
+  def  sort_array_char_count ["a","d","f"]
     a = 
     a.sort{|a|}
   end 
