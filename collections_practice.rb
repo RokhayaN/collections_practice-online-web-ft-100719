@@ -12,6 +12,7 @@ end
   
   def  sort_array_char_count 
     a =["a","d","c"]
-    a.sort
+    a.sort{|a|}
   end 
+  
     
